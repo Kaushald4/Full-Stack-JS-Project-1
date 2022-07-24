@@ -100,6 +100,11 @@ body {
     }
     
 }
+@media only screen and (max-width: 770px) {
+    .navbar-container {
+        height: 14vh;
+    }
+}
 
 /*------------------------- HeroBanner section ------------------------ */
 
@@ -205,6 +210,7 @@ body {
     .hero-container-right .hero-description {
         font-size: 13px;
     }
+    
     .hero-container .square > img {
         position: relative;
         width: 240px;
@@ -271,7 +277,7 @@ body {
     .hero-container {
         flex-direction: column;
         top: -40px;
-        height: 820vh;
+        height: 80vh;
         overflow: hidden;
     }
     .hero-container-right {
@@ -282,7 +288,12 @@ body {
         margin-bottom: 20px;
     }
     .hero-container .star {
-        left: 0;
+        left: 40px;
+        top: 80px;
+    }
+    .hero-container .star:nth-child(2) {
+        left: 450px;
+        top: 298px;
     }
     .hero-container-right {
         width: auto;
@@ -309,14 +320,14 @@ body {
     .hero-container {
         flex-direction: column;
         top: -40px;
-        /* height: 80vh; */
-        overflow-y: auto;
+        height: 100vh;
+        padding: 0 10px;
     }
     .hero-container-right {
         margin-top: 220px !important;
     }
     .hero-container-right .hero-heading {
-        font-size: 1.7rem;
+        font-size: 1.5rem;
         margin-bottom: 25px;
     }
     .hero-container .star {
