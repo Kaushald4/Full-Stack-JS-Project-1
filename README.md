@@ -26,4 +26,4 @@ Hi, I'm Kaushal Mehta
 #### Screenshot
 
 ![Desktop](./screenshots/screenshot.png)
-![Mobile](./screenshots/mobile.jpg)
+![Mobile](./screenshots/mobile.jpg | width=100)
