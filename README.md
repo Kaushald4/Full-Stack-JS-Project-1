@@ -5,11 +5,10 @@
 
 ![HTML & CSS](https://img.shields.io/badge/HTML-CSS-orange)
 ![Live class](https://img.shields.io/badge/LIVE--CLASS-PROJECT--1-lightgrey)
+
 ![name](https://img.shields.io/badge/Kaushal--Mehta-MCA--last--year-lightgrey)
 
 ## Project 1 [Live Link](#)
-
-Hi, I'm Kaushal Mehta
 
 -   Skills Gained in this project
     -   Learnd to use css position [Relative & Absolute] property.
@@ -26,4 +25,3 @@ Hi, I'm Kaushal Mehta
 #### Screenshot
 
 ![Desktop](./screenshots/screenshot.png)
-![Mobile](./screenshots/mobile.jpg | width=100)
