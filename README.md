@@ -8,7 +8,7 @@
 
 ![name](https://img.shields.io/badge/Kaushal--Mehta-MCA--last--year-lightgrey)
 
-## Project 1 [Live Link](#)
+## Project 1 [Live Link](https://live-proj-1.netlify.app/)
 
 -   Skills Gained in this project
     -   Learnd to use css position [Relative & Absolute] property.
